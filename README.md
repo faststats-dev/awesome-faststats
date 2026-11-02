@@ -10,7 +10,6 @@ A curated list of community SDKs and projects built with FastStats. Share yours!
   - [Java](#java)
   - [Rust](#rust)
 - [Built with FastStats](#built-with-faststats)
-- [Contributing](#contributing)
 
 ## SDKs
 
