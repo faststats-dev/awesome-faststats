@@ -1,2 +1,38 @@
-# awesome-faststats
-A curated list of awesome things build with and for FastStats.
+# Awesome FastStats [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> Product analytics platform with dashboards, session replays, error tracking, and feature flags.
+
+A curated list of community SDKs and projects built with FastStats. Share yours!
+
+## Contents
+
+- [SDKs](#sdks)
+  - [Java](#java)
+  - [Rust](#rust)
+- [Built with FastStats](#built-with-faststats)
+- [Contributing](#contributing)
+
+## SDKs
+
+Community-made SDKs and libraries for sending data to FastStats.
+
+### Java
+
+- [Example SDK](https://github.com/user/repo) - Short description of what it does.
+
+### Rust
+
+- [Example SDK](https://github.com/user/repo) - Short description of what it does.
+
+## Built with FastStats
+
+Projects and products using FastStats, and what they use it for.
+
+- [Example Project](https://example.com) - What the project is and optionally how it uses FastStats.
+
+## Contributing
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+Each entry should follow this format:
+- [Name](link) - Short description ending with a period.
