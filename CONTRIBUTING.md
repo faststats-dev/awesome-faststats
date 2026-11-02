@@ -47,7 +47,7 @@ Thank you for your suggestions!
 Once your entry is merged, feel free to add this badge to your project's README:
 
 ```markdown
-![Mentioned in Awesome FastStats](https://github.com/faststats-dev/awesome-faststats)
+[![Mentioned in Awesome FastStats](https://awesome.re/mentioned-badge.svg)](https://github.com/faststats-dev/awesome-faststats)
 ```
 
 Please use the badge as is, without modifying it.
