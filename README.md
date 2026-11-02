@@ -32,6 +32,3 @@ Projects and products using FastStats, and what they use it for.
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-Each entry should follow this format:
-- [Name](link) - Short description ending with a period.
