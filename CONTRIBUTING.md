@@ -41,3 +41,15 @@ Sometimes a maintainer will ask you to edit your pull request before it's merged
 To update a pull request you've already opened, push new commits to the same branch. There's no need to open a new one.
 
 Thank you for your suggestions!
+
+## Show it off
+
+Once your entry is merged, feel free to add this badge to your project's README:
+
+```markdown
+![Mentioned in Awesome FastStats](https://github.com/faststats-dev/awesome-faststats)
+```
+
+Please use the badge as is, without modifying it.
+
+Thank you for your suggestions!
