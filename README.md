@@ -25,7 +25,9 @@ Community-made SDKs and libraries for sending data to FastStats.
 
 ## Tools
 
-- [FastStats MCP](https://github.com/srnyx/faststats-mcp) by [srnyx](https://srnyx.com) - Local MCP server for AI agents (built for Claude). Have AI generate entire dashboards, individual charts, data sources, and more across your projects.
+Tools to assist with using FastStats that don't fall under the other categories.
+
+- [FastStats MCP](https://github.com/srnyx/faststats-mcp) - Local MCP server for AI agents (built for Claude). Have AI generate entire dashboards, individual charts, data sources, and more across your projects.
 
 ## Built with FastStats
 
