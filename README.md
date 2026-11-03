@@ -22,7 +22,7 @@ Community-made SDKs and libraries for sending data to FastStats.
 
 ### Rust
 
-- [faststats-rs](https://github.com/iseal56/faststats-rs) - Cross-platform rust implementation of the SDK, with optional support for crossterm
+- [faststats-rs](https://github.com/iseal56/faststats-rs) - Cross-platform rust implementation of the SDK, with optional support for crossterm.
 
 ## Tools
 
